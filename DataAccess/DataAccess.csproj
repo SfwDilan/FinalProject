@@ -8,10 +8,4 @@
     <ProjectReference Include="..\Entities\Entities.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Concrete\EntityFramework\" />
-    <Folder Include="Concrete\Dapper\" />
-    <Folder Include="Concrete\NHibernate\" />
-  </ItemGroup>
-
 </Project>
